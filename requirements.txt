@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+fpdf
+sqlalchemy
+psycopg2-binary==2.9.9
+pydantic
+python-multipart
+pydantic-settings
+qrcode
+arabic-reshaper
+python-bidi
+pillow
